@@ -1,0 +1,6 @@
+# match the controls to the accent color used in the charts
+[theme]
+primaryColor = "#2a78d6"
+
+[browser]
+gatherUsageStats = false
